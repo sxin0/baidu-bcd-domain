@@ -1,0 +1,28 @@
+{
+  "name": "sxin/baidu-bcd-domain",
+  "description": "百度云域名服务BCD",
+  "type": "library",
+  "version": "1.0.0",
+  "keywords": [
+    "百度",
+    "域名服务",
+    "BCD"
+  ],
+  "authors": [
+    {
+      "name": "sxin",
+      "email": "1348550820@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Sxin\\Baidu\\Bcd\\": "src/"
+    }
+  }
+}
