@@ -3,9 +3,9 @@
 > 百度智能云文档 [https://cloud.baidu.com/doc/BCD/s/pjwvymihl](https://cloud.baidu.com/doc/BCD/s/pjwvymihl)
 
 ## 功能
-- [ x ] 域名列表
-- [ x ] 查询域名解析记录列表
-- [ x ] 更新域名解析记录
+- [x] 域名列表
+- [x] 查询域名解析记录列表
+- [x] 更新域名解析记录
 
 ## DEMO
 
